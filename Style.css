@@ -1,0 +1,32 @@
+
+
+
+/*tag selector*/
+h1, h2, h3{
+    color:rgb(74, 226, 226); 
+    text-align: center;
+    background-color: black;
+}
+
+body{
+    background-color: darkgray;
+}
+
+p{
+    color: blue;
+    font-size: 24px;
+    text-shadow: -2px 3px 2px rgb(80 29 29);
+    border: 5px orange;
+}
+
+/*ID selector*/
+#unique{
+    color: rgb(241, 186, 82)
+}
+
+/*class selector*/
+.red{
+    color: red;
+}
+.center{text-align: center
+    ;}
